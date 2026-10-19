@@ -27,7 +27,7 @@ flake8==7.4.1
 frozenlist==1.8.0
 fsspec==2026.9.0
 google-ai-generativelanguage==0.6.15
-google-api-core==2.33.0
+google-api-core
 google-api-python-client==2.201.0
 google-auth==2.62.0
 google-auth-httplib2==0.4.4
@@ -76,7 +76,7 @@ platformdirs==4.13.0
 pluggy==1.6.0
 propcache==0.5.4
 proto-plus==1.28.2
-protobuf==5.29.6
+protobuf
 pyasn1==0.6.4
 pyasn1_modules==0.4.2
 pycodestyle==2.15.0
